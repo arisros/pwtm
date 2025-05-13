@@ -14,6 +14,8 @@ Aplikasi web sederhana untuk mengelola data mata kuliah menggunakan PHP dan MySQ
 
 ## 📁 Struktur Folder
 
+````
+
 📁 config/
 └── db.php # Koneksi database
 📁 feature/
@@ -25,6 +27,8 @@ Aplikasi web sederhana untuk mengelola data mata kuliah menggunakan PHP dan MySQ
 └── footer.php
 form.php
 index.php
+
+```
 
 ## 💡 Snippet Kode
 
@@ -43,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     header("Location: ../index.php?create=success");
 }
 ?>
-```
+````
 
 ### 2. Read (Tampil Data)
 
