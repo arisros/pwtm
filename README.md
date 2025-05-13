@@ -93,7 +93,3 @@ index.php
 ## Lisensi
 
 Proyek ini bebas digunakan untuk keperluan pembelajaran dan pengembangan pribadi.
-
-```
-
-```
