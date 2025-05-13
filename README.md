@@ -70,12 +70,11 @@ index.php
 ## Cara Menjalankan
 
 1. Clone repositori ini:
+
    ```bash
    git clone https://github.com/username/nama-repo.git
    cd nama-repo
    ```
-
-````
 
 2. Import database dari file `db.sql` (jika tersedia).
 
@@ -95,4 +94,6 @@ index.php
 
 Proyek ini bebas digunakan untuk keperluan pembelajaran dan pengembangan pribadi.
 
-````
+```
+
+```
